@@ -40,3 +40,8 @@ Clone the Github Repository & Open an IDE like Visual Studio Code
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
+## Score 
+
+Link : https://www.nuitdelinfo.com/inscription/defis/liste
+Image of Victory : ![site](https://user-images.githubusercontent.com/75495075/227809610-c2e7102f-ea26-4eac-a05b-7c41e389e76e.PNG)
+
